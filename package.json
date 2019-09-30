@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "1. Clearly state the problem the app is trying to solve (i.e. what is it doing and why)     Easy to use app for finding song, concert, and movie information by havin guser answer intuitively to questions.",
   "main": "index.js",
+  "engines": {
+    "node": "10.15.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
